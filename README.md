@@ -1,9 +1,17 @@
 # Pre-Entrega-Front-TT
 Pre entrega de Front End Talento Tech
 
-¡Bienvenido/a al repositorio de mi proyecto web! Este front corresponde a la **Pre-Entrega**, donde se consolida el progreso, la estructura semántica y los estilos aplicados hasta el momento, sirviendo como base fundamental para el Proyecto Integrador Final.
+¡Bienvenido/a al repositorio de mi proyecto web! Este front corresponde a la **Pre-Entrega**, donde se consolida el progreso, la estructura semántica y los estilos aplicados hasta el momento.
 
 El sitio consiste en una página web funcional, interactiva y totalmente responsiva, orientada al e-commerce y la presentación de productos.
+
+"Vendo Pilchas" es una simulación de E-Commerce formada por la recopilación de los saberes aprendidos durante el curso.
+
+La estétitca la página pretende ser ruidosa y juvenil, para eso se usan fuentes que recuerdan a los años 2000 y también colores brillantes.
+
+El E-Commerce se enfoca en la venta de remeras gráficas con memes tendencia y productos relacionados con lo mismo.
+
+No alcancé a agregar la sección de reseñas, pero la estaré agregando para la proxima instancia al igual que mejorando las secciones que no quedaron como yo hubiera querido.
 
 ---
 
@@ -42,12 +50,3 @@ El proyecto fue desarrollado siguiendo estrictamente las consignas y rúbricas d
 * **Formspree** - Servicio backend para la recepción de mensajes del formulario.
 * **Git & GitHub** - Control de versiones y alojamiento del código fuente.
 
----
-
-"Vendo Pilchas" es una simulación de E-Commerce formada por la recopilación de los saberes aprendidos durante el curso de JavasScript Front End de Talento Tech.
-
-La estétitca la página pretende ser ruidosa y juvenil, para eso se usan fuentes que recuerdan a los años 2000 y también colores brillantes.
-
-El E-Commerce se enfoca en la venta de remeras gráficas con memes tendencia y productos relacionados con lo mismo.
-
-No alcancé a agregar la sección de reseñas, pero la estaré agregando para la proxima instancia al igual que mejorando las secciones que no quedaron como yo hubiera querido.
