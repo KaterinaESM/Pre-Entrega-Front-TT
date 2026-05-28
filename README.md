@@ -1,7 +1,7 @@
 # Pre-Entrega-Front-TT
 Pre entrega de Front End Talento Tech
 
-¡Bienvenido/a al repositorio de mi proyecto web! Este frontcorresponde a la **Pre-Entrega**, donde se consolida el progreso, la estructura semántica y los estilos aplicados hasta el momento, sirviendo como base fundamental para el Proyecto Integrador Final.
+¡Bienvenido/a al repositorio de mi proyecto web! Este front corresponde a la **Pre-Entrega**, donde se consolida el progreso, la estructura semántica y los estilos aplicados hasta el momento, sirviendo como base fundamental para el Proyecto Integrador Final.
 
 El sitio consiste en una página web funcional, interactiva y totalmente responsiva, orientada al e-commerce y la presentación de productos.
 
